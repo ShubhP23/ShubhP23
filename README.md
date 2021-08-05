@@ -3,7 +3,7 @@
 
 # SHUBHANKAR'S PORTFOLIO
 
-<h2>Hi 👋, I'm Shubhankar Poddar</h2> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+<h2>Hello World <img src="https://github.com/sunanda35/sunanda35/blob/master/assets/hi.gif?raw=true" width="30px">, I'm Shubhankar Poddar</h2> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 <h3>A passionate Application developer from India. I really enjoy learning languages and frameworks like Flutter and React Native, as well as work in Java for app development</h3>
 
 
